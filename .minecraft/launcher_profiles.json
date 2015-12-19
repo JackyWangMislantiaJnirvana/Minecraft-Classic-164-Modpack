@@ -1,0 +1,16 @@
+{
+	"profiles": {
+		"MClauncher": {
+			"name": "MClauncher"
+		},
+		"Forge": {
+			"name": "Forge",
+			"lastVersionId": "1.6.4-Forge9.11.1.1345"
+		},
+		"(Default)": {
+			"name": "(MClauncher)"
+		}
+	},
+	"selectedProfile": "(Default)",
+	"clientToken": "88888888-8888-8888-8888-888888888888"
+}
