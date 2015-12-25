@@ -1,0 +1,5 @@
+*.log
+*.out
+*.lck
+/NVIDIA/*
+/stats/*
