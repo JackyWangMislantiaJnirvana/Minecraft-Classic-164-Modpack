@@ -3,6 +3,8 @@
 *.lck
 NVIDIA/
 stats/
+saves/
 .gitignore
-*.1
-*.2
+ForgeModLoader*
+*log*
+
