@@ -7,4 +7,4 @@ saves/
 .gitignore
 ForgeModLoader*
 *log*
-mods/VoxelMods
+mods/VoxelMods/
