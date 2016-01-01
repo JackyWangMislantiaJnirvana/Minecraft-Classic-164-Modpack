@@ -1,0 +1,116 @@
+* [33mcommit 4a7118a5e15eb740ed40d5937941ff4f1dfd39de[m
+[31m|[m Author: JackyWangMislantiaJnirvana <wmjwld@live.cn>
+[31m|[m Date:   Tue Dec 29 19:45:34 2015 +0800
+[31m|[m 
+[31m|[m     Update README.md
+[31m|[m  
+* [33mcommit ab672022ea6d7145e35b4c7058c031f6b73bca5e[m
+[31m|[m Author: JackyWangMislantiaJnirvana <wmjwld@live.cn>
+[31m|[m Date:   Sat Dec 26 18:06:24 2015 +0800
+[31m|[m 
+[31m|[m     Installed Mod:
+[31m|[m     Zan's Minimap Waila
+[31m|[m     
+[31m|[m     Renamed some Mods' File
+[31m|[m  
+* [33mcommit f9aee7bb5528c1d19f3b4bd943f47f91bd88a28a[m
+[31m|[m Author: JackyWangMislantiaJnirvana <wmjwld@live.cn>
+[31m|[m Date:   Sat Dec 26 10:47:50 2015 +0800
+[31m|[m 
+[31m|[m     安装鸡骨头API，NEI，以及NEI Addons
+[31m|[m  
+* [33mcommit de4fa153f54f993c62b6764ed63c5fe566b6bdc8[m
+[31m|[m Author: JackyWangMislantiaJnirvana <wmjwld@live.cn>
+[31m|[m Date:   Fri Dec 25 21:26:43 2015 +0800
+[31m|[m 
+[31m|[m     追改错误
+[31m|[m  
+* [33mcommit 5dff1c5a8cbbf21fed4f6fe10f94bbd023fff66d[m
+[31m|[m Author: JackyWangMislantiaJnirvana <wmjwld@live.cn>
+[31m|[m Date:   Fri Dec 25 21:24:58 2015 +0800
+[31m|[m 
+[31m|[m     首次测试启动，添加些许文件
+[31m|[m  
+* [33mcommit e1d8edc9ce463fcb0cb491bbbad75ea048bf0893[m
+[31m|[m Author: JackyWangMislantiaJnirvana <wmjwld@live.cn>
+[31m|[m Date:   Sat Dec 19 15:46:30 2015 +0800
+[31m|[m 
+[31m|[m     Update README.md
+[31m|[m  
+* [33mcommit 02c784056eda76098819e524e6defe19ea86b4d0[m
+[31m|[m Author: JackyWangMislantiaJnirvana <wmjwld@live.cn>
+[31m|[m Date:   Sat Dec 19 15:45:59 2015 +0800
+[31m|[m 
+[31m|[m     Update README.md
+[31m|[m  
+* [33mcommit 367e6d2c66085e11ee2feeb3e2e9ebed22bc037f[m
+[31m|[m Author: JackyWangMislantiaJnirvana <wmjwld@live.cn>
+[31m|[m Date:   Sat Dec 19 15:39:48 2015 +0800
+[31m|[m 
+[31m|[m     modify directory
+[31m|[m  
+* [33mcommit 27b28e2d4fac2b7e011e5b0a5df3b9faeffb138d[m
+[31m|[m Author: JackyWangMislantiaJnirvana <wmjwld@live.cn>
+[31m|[m Date:   Sat Dec 19 15:21:05 2015 +0800
+[31m|[m 
+[31m|[m     update readme imformation
+[31m|[m  
+* [33mcommit 7c1bc4f347552ca7503ac9f2dd03fbf33eddb077[m
+[31m|[m Author: JackyWangMislantiaJnirvana <wmjwld@live.cn>
+[31m|[m Date:   Sat Dec 19 13:11:29 2015 +0800
+[31m|[m 
+[31m|[m     First stable commit, pure Forge modpack
+[31m|[m  
+* [33mcommit 653575fcca351bf6c9cb5e05e67e002e7af51d08[m
+[31m|[m Author: JackyWangMislantiaJnirvana <wmjwld@live.cn>
+[31m|[m Date:   Fri Dec 18 20:34:16 2015 +0800
+[31m|[m 
+[31m|[m     Update README.md
+[31m|[m     
+[31m|[m     主页介绍
+[31m|[m  
+* [33mcommit 87504cffc25eec15950de8535d5d1d4d4d898917[m
+[31m|[m Author: JackyWangMislantiaJnirvana <wmjwld@live.cn>
+[31m|[m Date:   Fri Dec 18 20:28:46 2015 +0800
+[31m|[m 
+[31m|[m     编写主页介绍
+[31m|[m    
+*   [33mcommit bc16125a03ed59592ddbb17ea15016842cd22e98[m
+[32m|[m[33m\[m  Merge: 725bb58 94e01aa
+[32m|[m [33m|[m Author: JackyWangMislantiaJnirvana <wmjwld@live.cn>
+[32m|[m [33m|[m Date:   Fri Dec 18 20:04:53 2015 +0800
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     Merge remote-tracking branch 'origin/Develop'
+[32m|[m [33m|[m   
+[32m|[m * [33mcommit 94e01aaee0ba70620cc98ecadf1c3c21438e82b7[m
+[32m|[m [33m|[m Author: JackyWangMislantiaJnirvana <wmjwld@live.cn>
+[32m|[m [33m|[m Date:   Tue Dec 15 22:11:16 2015 +0800
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     Delete README.txt
+[32m|[m [33m|[m   
+* [33m|[m [33mcommit 725bb58ced808c4b05e7d098beb3630486e7a75d[m
+[33m|[m [33m|[m Author: JackyWangMislantiaJnirvana <wmjwld@live.cn>
+[33m|[m [33m|[m Date:   Tue Dec 15 22:09:28 2015 +0800
+[33m|[m [33m|[m 
+[33m|[m [33m|[m     Delete README.txt
+[33m|[m [33m|[m     
+* [33m|[m   [33mcommit 2a29ab463921ec5c2aa0bbe4a00e87af6c875b0c[m
+[34m|[m[33m\[m [33m\[m  Merge: 6cd7c96 d9ff81d
+[34m|[m [33m|[m[33m/[m  Author: JackyWangMislantiaJnirvana <wmjwld@live.cn>
+[34m|[m [33m|[m   Date:   Sun Dec 13 17:58:16 2015 +0800
+[34m|[m [33m|[m   
+[34m|[m [33m|[m       Merge pull request #2 from JackyWangMislantiaJnirvana/Develop
+[34m|[m [33m|[m       
+[34m|[m [33m|[m       Create README.txt
+[34m|[m [33m|[m   
+[34m|[m * [33mcommit d9ff81db7927401d48377c2932133a1c9c1f20ef[m
+[34m|[m[34m/[m  Author: JackyWangMislantiaJnirvana <wmjwld@live.cn>
+[34m|[m   Date:   Sat Dec 12 18:05:58 2015 +0800
+[34m|[m   
+[34m|[m       Create README.txt
+[34m|[m  
+* [33mcommit 6cd7c960d951ed6814fdf6ecea8413e9ea21fdde[m
+  Author: JackyWangMislantiaJnirvana <wmjwld@live.cn>
+  Date:   Wed Dec 9 23:53:12 2015 +0800
+  
+      Initial commit
