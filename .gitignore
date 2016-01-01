@@ -7,4 +7,5 @@ saves/
 .gitignore
 ForgeModLoader*
 *log*
+.Minecraft/
 
