@@ -1,42 +1,42 @@
-binniecore.mod.name=Binnie Core
+binniecore.mod.name=Binnie系列模组 核心
 
-binniecore.rootBees.descriptor=Apiarist
-binniecore.rootTrees.descriptor=Arborist
-binniecore.rootButterflies.descriptor=Lepidopterist
+binniecore.rootBees.descriptor=养蜂人
+binniecore.rootTrees.descriptor=林业园
+binniecore.rootButterflies.descriptor=鳞翅目昆虫学家
 
-binniecore.rootBees.epitome.0=Bee Swatter
-binniecore.rootBees.epitome.1=Amateur Beekeeper
-binniecore.rootBees.epitome.2=Apiarist-In-Training
-binniecore.rootBees.epitome.3=Professional Beekeeper
-binniecore.rootBees.epitome.4=Master Apiarist
-binniecore.rootBees.epitome.5=God amoungst Apiarists
-binniecore.rootBees.epitome.6=Sengir's Chosen
+binniecore.rootBees.epitome.0=只会拍蜜蜂的人
+binniecore.rootBees.epitome.1=业余养蜂人
+binniecore.rootBees.epitome.2=见习养蜂人
+binniecore.rootBees.epitome.3=专业养蜂人
+binniecore.rootBees.epitome.4=大师级养蜂人
+binniecore.rootBees.epitome.5=神佑养蜂人
+binniecore.rootBees.epitome.6=天赋养蜂人
 
-binniecore.rootTrees.epitome.0=Wannabe Tree Farmer
-binniecore.rootTrees.epitome.1=Lumberjack
-binniecore.rootTrees.epitome.2=Green Thumbed
-binniecore.rootTrees.epitome.3=Renowned Farmer
-binniecore.rootTrees.epitome.4=Agricultural Master
-binniecore.rootTrees.epitome.5=Lord of the Trees
-binniecore.rootTrees.epitome.6=Mother Nature
+binniecore.rootTrees.epitome.0=“未来”林艺家
+binniecore.rootTrees.epitome.1=伐木工
+binniecore.rootTrees.epitome.2=绿拇指
+binniecore.rootTrees.epitome.3=知名农夫
+binniecore.rootTrees.epitome.4=林艺大师
+binniecore.rootTrees.epitome.5=百树之王
+binniecore.rootTrees.epitome.6=自然之母
 
-binniecore.rootButterflies.epitome.0=Bug Catcher
-binniecore.rootButterflies.epitome.1=Moth Chaser
-binniecore.rootButterflies.epitome.2=Scoop Wizard
-binniecore.rootButterflies.epitome.3=Caterpiller Lord
-binniecore.rootButterflies.epitome.4=Winged Assassin
-binniecore.rootButterflies.epitome.5=Moth King
-binniecore.rootButterflies.epitome.6=Monarch of the Butterflies
+binniecore.rootButterflies.epitome.0=抓虫者
+binniecore.rootButterflies.epitome.1=捕蛾人
+binniecore.rootButterflies.epitome.2=奇迹捕虫师
+binniecore.rootButterflies.epitome.3=蚂蚱之王
+binniecore.rootButterflies.epitome.4=插翼刺客
+binniecore.rootButterflies.epitome.5=飞蛾大王
+binniecore.rootButterflies.epitome.6=蝴蝶大帝
 
 
-binniecore.rootBees.chromosome.species=Species
-binniecore.rootBees.chromosome.speed=Production
-binniecore.rootBees.chromosome.lifespan=Lifespan
-binniecore.rootBees.chromosome.fertility=Fertility
-binniecore.rootBees.chromosome.temperature_tolerance=Temperature Tolerance
-binniecore.rootBees.chromosome.nocturnal=Nocturnal
-binniecore.rootBees.chromosome.humidity=Humidity
-binniecore.rootBees.chromosome.humidity_tolerance=Humidity Tolerance
+binniecore.rootBees.chromosome.species=物种
+binniecore.rootBees.chromosome.speed=生产力
+binniecore.rootBees.chromosome.lifespan=更迭寿命
+binniecore.rootBees.chromosome.fertility=繁殖能力
+binniecore.rootBees.chromosome.temperature_tolerance=温度适应性
+binniecore.rootBees.chromosome.nocturnal=昼夜工作能力
+binniecore.rootBees.chromosome.humidity=相对湿度
+binniecore.rootBees.chromosome.humidity_tolerance=相对湿度适应性
 binniecore.rootBees.chromosome.tolerant_flyer=Rain Tolerance
 binniecore.rootBees.chromosome.cave_dwelling=Cave Dwelling
 binniecore.rootBees.chromosome.flower_provider=Flowers
