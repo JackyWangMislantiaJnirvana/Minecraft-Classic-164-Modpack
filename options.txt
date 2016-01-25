@@ -1,5 +1,5 @@
-music:1.0
-sound:1.0
+music:0.0
+sound:0.028169014
 invertYMouse:false
 mouseSensitivity:0.5
 fov:0.0
@@ -11,7 +11,7 @@ bobView:true
 anaglyph3d:false
 advancedOpengl:false
 fpsLimit:0
-difficulty:3
+difficulty:0
 fancyGraphics:true
 ao:2
 clouds:true

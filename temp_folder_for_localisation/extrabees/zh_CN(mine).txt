@@ -1,5 +1,5 @@
 ##################################################
-## Items
+## 物品
 
 extrabees.item.comb.barren=贫瘠蜂巢
 extrabees.item.comb.rotten=腐烂蜂巢
@@ -32,9 +32,9 @@ extrabees.item.comb.venomous=剧毒蜂巢
 extrabees.item.comb.slime=粘液蜂巢
 extrabees.item.comb.blaze=青铜蜂巢
 extrabees.item.comb.coffee=咖啡蜂巢
-extrabees.item.comb.glacial=Glacial Comb
-extrabees.item.comb.mint=Mint Comb
-extrabees.item.comb.citrus=Citrus Comb
+extrabees.item.comb.glacial=冰河蜂巢
+extrabees.item.comb.mint=薄荷蜂巢
+extrabees.item.comb.citrus=柠檬蜂巢
 extrabees.item.comb.peat=泥碳蜂巢
 extrabees.item.comb.shadow=暗影蜂巢
 extrabees.item.comb.lead=富铅蜂巢
@@ -54,7 +54,7 @@ extrabees.item.comb.green=绿色染色蜂巢
 extrabees.item.comb.black=黑色染色蜂巢
 extrabees.item.comb.white=白色染色蜂巢
 extrabees.item.comb.brown=棕色染色蜂巢
-extrabees.item.comb.orange=橘红色染色蜂巢
+extrabees.item.comb.orange=橙色染色蜂巢
 extrabees.item.comb.cyan=青色染色蜂巢
 extrabees.item.comb.purple=紫色染色蜂巢
 extrabees.item.comb.gray=灰色染色蜂巢
@@ -71,126 +71,150 @@ extrabees.item.comb.sawdust=锯末蜂巢
 extrabees.item.comb.certus=赛特斯晶体蜂巢
 extrabees.item.comb.enderpearl=微光蜂巢
 
-extrabees.item.honeydrop.energy=能量液滴
-extrabees.item.honeydrop.acid=强酸液滴
-extrabees.item.honeydrop.poison=剧毒液滴
-extrabees.item.honeydrop.apple=Juicy Drop
-extrabees.item.honeydrop.citrus=Bitter Drop
-extrabees.item.honeydrop.ice=Kelvin Drop
-extrabees.item.honeydrop.milk=Milkdew
-extrabees.item.honeydrop.seed=Nutdew
-extrabees.item.honeydrop.alcohol=Tipsy Drop
-extrabees.item.honeydrop.fruit=Fruitdew
-extrabees.item.honeydrop.vegetable=Leafy Drop
-extrabees.item.honeydrop.pumpkin=Fleshy Drop
-extrabees.item.honeydrop.melon=Glistening Drop
-extrabees.item.honeydrop.red=Tinted Honey
-extrabees.item.honeydrop.yellow=Tinted Honey
-extrabees.item.honeydrop.blue=Tinted Honey
-extrabees.item.honeydrop.green=Tinted Honey
-extrabees.item.honeydrop.black=Tinted Honey
-extrabees.item.honeydrop.white=Tinted Honey
-extrabees.item.honeydrop.brown=Tinted Honey
-extrabees.item.honeydrop.orange=Tinted Honey
-extrabees.item.honeydrop.cyan=Tinted Honey
-extrabees.item.honeydrop.purple=Tinted Honey
-extrabees.item.honeydrop.gray=Tinted Honey
-extrabees.item.honeydrop.lightblue=Tinted Honey
-extrabees.item.honeydrop.pink=Tinted Honey
-extrabees.item.honeydrop.limegreen=Tinted Honey
-extrabees.item.honeydrop.magenta=Tinted Honey
-extrabees.item.honeydrop.lightgray=Tinted Honey
+extrabees.item.honeydrop.energy=能量蜜滴
+extrabees.item.honeydrop.acid=酸液蜜滴
+extrabees.item.honeydrop.poison=剧毒蜜滴
+extrabees.item.honeydrop.apple=果汁蜜滴
+extrabees.item.honeydrop.citrus=苦味蜜滴
+extrabees.item.honeydrop.ice=
+extrabees.item.honeydrop.milk=乳香蜜滴
+extrabees.item.honeydrop.seed=种子油蜜滴
+extrabees.item.honeydrop.alcohol=乙醇液滴
+extrabees.item.honeydrop.fruit=水果蜜滴
+extrabees.item.honeydrop.vegetable=菜色蜜滴
+extrabees.item.honeydrop.pumpkin=新鲜蜜滴
+extrabees.item.honeydrop.melon=闪烁的蜜滴
+extrabees.item.honeydrop.red=红色染色蜜滴
+extrabees.item.honeydrop.yellow=黄色染色蜜滴
+extrabees.item.honeydrop.blue=蓝色染色蜜滴
+extrabees.item.honeydrop.green=绿色染色蜜滴
+extrabees.item.honeydrop.black=黑色染色蜜滴
+extrabees.item.honeydrop.white=白色染色蜜滴
+extrabees.item.honeydrop.brown=棕色染色蜜滴
+extrabees.item.honeydrop.orange=橙色染色蜜滴
+extrabees.item.honeydrop.cyan=青色染色蜜滴
+extrabees.item.honeydrop.purple=紫色染色蜜滴
+extrabees.item.honeydrop.gray=灰色染色蜜滴
+extrabees.item.honeydrop.lightblue=浅蓝色染色蜜滴
+extrabees.item.honeydrop.pink=粉色染色蜜滴
+extrabees.item.honeydrop.limegreen=黄绿色染色蜜滴
+extrabees.item.honeydrop.magenta=品红色染色蜜滴
+extrabees.item.honeydrop.lightgray=浅灰色染色蜜滴
 
-extrabees.item.propolis.water=Watery Propolis
-extrabees.item.propolis.oil=Oily Propolis
-extrabees.item.propolis.fuel=Petroleum Propolis
-extrabees.item.propolis.creosote=Creosote Propolis
-extrabees.item.propolis.peat=Peat Propolis
+extrabees.item.propolis.water=含水蜂胶
+extrabees.item.propolis.oil=石油蜂胶
+extrabees.item.propolis.fuel=燃油蜂胶
+extrabees.item.propolis.creosote=木馏油蜂胶
+extrabees.item.propolis.peat=泥碳蜂胶
 
-extrabees.item.honeycrystal=Honey Crystal
-extrabees.item.honeycrystal.empty=Depleted Honey Crystal
+extrabees.item.honeycrystal=蜂蜜水晶
+extrabees.item.honeycrystal.empty=耗尽的蜂蜜水晶
 
-extrabees.item.frame.cocoa=Chocolate Frame
-extrabees.item.frame.cage=Restraint Frame
-extrabees.item.frame.soul=Soul Frame
-extrabees.item.frame.clay=Healing Frame
-extrabees.item.frame.debug=Nova Frame
+extrabees.item.frame.cocoa=巧克力框架
+extrabees.item.frame.cage=制约框架
+extrabees.item.frame.soul=灵魂框架
+extrabees.item.frame.clay=治愈框架
+extrabees.item.frame.debug=超新星100%变异创造专用框架
 
-extrabees.item.serum.tooltip.nocharge=Empty
-extrabees.item.serum.tooltip.charge1=1 Charge
-extrabees.item.serum.tooltip.manycharge=%d Charges
-extrabees.item.serum.corrupted=Corrupted Serum
-extrabees.item.serum.name=%s Serum
-extrabees.item.serum.empty=Empty Serum
+extrabees.item.serum.tooltip.nocharge=空
+extrabees.item.serum.tooltip.charge1=剩余 1 次
+extrabees.item.serum.tooltip.manycharge=剩余 %d次
+extrabees.item.serum.corrupted=被污染的血清管
+extrabees.item.serum.name=%s 血清管
+extrabees.item.serum.empty=空的血清管
 
-extrabees.item.template.corrupted=Corrupted Template
-extrabees.item.template.name=%s Template
-extrabees.item.template.empty=Blank Template
-
-
+extrabees.item.template.corrupted=被污染的模板
+extrabees.item.template.name=%s 模板
+extrabees.item.template.empty=空白模板
 
 
-extrabees.block.apiaristMachine.name=Apiarist Machine
-extrabees.block.geneticMachine.name=Genetic Machine
-extrabees.block.advGeneticMachine.name=Advanced Genetic Machine
-
-extrabees.block.ectoplasm.name=Ectoplasm
-
-extrabees.block.hive.0=Water Hive
-extrabees.block.hive.1=Rock Hive
-extrabees.block.hive.2=Nether Hive
-extrabees.block.hive.3=Marble Hive
 
 
-##################################################
-## Liquids
+extrabees.block.apiaristMachine.name=养蜂人机器框架
+extrabees.block.geneticMachine.name=基因工业机器框架
+extrabees.block.advGeneticMachine.name=进阶基因工业机器框架
 
-extrabees.liquid.acid=Acid
-extrabees.liquid.poison=Poison
-extrabees.liquid.glacial=Liquid Nitrogen
-extrabees.liquid.dna=Liquid DNA
+extrabees.block.ectoplasm.name=胶质网
 
-
+extrabees.block.hive.0=水生蜂窝
+extrabees.block.hive.1=岩石蜂窝
+extrabees.block.hive.2=下界蜂窝
+extrabees.block.hive.3=大理石蜂窝
 
 
 ##################################################
-## Machines
+## 流体
 
-extrabees.machine.alveay.frame=Frame Housing
-extrabees.machine.alveay.frame.desc=The Frame Housing holds one hive frame to alter a bee's traits.
-extrabees.machine.alveay.lighting=Alveary Lighting
-extrabees.machine.alveay.lighting.desc=The Alveary Lighting tricks bees into thinking it is daylight at night time.
-extrabees.machine.alveay.mutator=Mutator
-extrabees.machine.alveay.mutator.desc=The Mutator uses certain items in order to encourage bee mutation.
-extrabees.machine.alveay.rainShield=Rain Shield
-extrabees.machine.alveay.rainShield.desc=The Rain Shield prevents bees from being affected by rainfall.
-extrabees.machine.alveay.stimulator=Electrical Stimulator
-extrabees.machine.alveay.stimulator.desc=Uses circuits and Buildcraft power to stimulate bees in a way similar to frames.
-
-
-extrabees.machine.apiaristmachine=Apiarist Machine
-extrabees.machine.acclimatiser=Acclimatiser
-extrabees.machine.acclimatiser.desc=The Acclimatiser is used to alter the humidity or temperature tolerance of a bee using certain items.
-extrabees.machine.databank=Databank
-extrabees.machine.indexer=Indexer
-
-extrabees.machine.geneticmachine=Genetic Machine
-extrabees.machine.genepool=Genepool
-extrabees.machine.sequencer=Sequencer
-extrabees.machine.splicer=Splicer
-
-extrabees.machine.advancedgeneticmachine=Advanced Genetic Machine
-extrabees.machine.isolator=Isolator
-extrabees.machine.replicator=Replicator
-extrabees.machine.purifier=Purifier
-extrabees.machine.inoculator=Inoculator
-extrabees.machine.synthesizer=Synthesiser
+extrabees.liquid.acid=酸液
+extrabees.liquid.poison=毒液
+extrabees.liquid.glacial=液氮
+extrabees.liquid.dna=液态DNA
 
 
 
 
 ##################################################
-## Misc
+## 机器
+
+extrabees.machine.alveay.frame=蜂箱组框架适装置
+extrabees.machine.alveay.frame.desc=使本适用于小蜂箱的框架适用于蜂箱组以影响蜜蜂的相应属性。
+extrabees.machine.alveay.frame.info=使本适用于小蜂箱的框架适用于蜂箱组以影响蜜蜂的相应属性。
+extrabees.machine.alveay.lighting=蜂箱组照明装置
+extrabees.machine.alveay.lighting.desc=使不具有昼夜工作习性的蜜蜂误以为天亮而通宵工作。
+extrabees.machine.alveay.lighting.info=使不具有昼夜工作习性的蜜蜂误以为天亮而通宵工作。
+extrabees.machine.alveay.mutator=蜂箱组基因突变诱发装置
+extrabees.machine.alveay.mutator.desc=凭借一些特定物品(如某些放射性，不稳定物品)发挥效用，提高蜜蜂的突变几率。但因为属于人为诱发突变，此途径有些风险。
+extrabees.machine.alveay.mutator.info=凭借一些特定物品(如某些放射性，不稳定物品)发挥效用，提高蜜蜂的突变几率。但因为属于人为诱发突变，此途径有些风险。
+extrabees.machine.alveay.rainShield=蜂箱组防雨装置
+extrabees.machine.alveay.rainShield.desc=为蜜蜂遮风挡雨，使不具有降水气候适应习性的蜜蜂得以在雨天工作。
+extrabees.machine.alveay.rainShield.info=为蜜蜂遮风挡雨，使不具有降水气候适应习性的蜜蜂得以在雨天工作。
+extrabees.machine.alveay.stimulator=蜂箱组电子增产装置
+extrabees.machine.alveay.stimulator.desc=利用电气手段，借助尖端工业制造的电路板和MJ能量产生电磁脉冲刺激蜜蜂使其增产，效用与框架类似。
+extrabees.machine.alveay.stimulator.info=利用电气手段，借助尖端工业制造的电路板和MJ能量产生电磁脉冲刺激蜜蜂使其增产，效用与框架类似。
+
+
+extrabees.machine.apiaristmachine=养蜂人机器框架
+extrabees.machine.acclimatiser=气候适应性改造器
+extrabees.machine.acclimatiser.desc=借助特定的物品，使蜜蜂经受极寒和烈焰的考验，使其能具有更广泛的温湿度适应性。
+extrabees.machine.acclimatiser.info=借助特定的物品，使蜜蜂经受极寒和烈焰的考验，使其能具有更广泛的温湿度适应性。
+extrabees.machine.acclimatiser.info=借助特定的物品，使蜜蜂经受极寒和烈焰的考验，使其能具有更广泛的温湿度适应性。
+extrabees.machine.databank=遗传信息数据库
+extrabees.machine.databank.desc=详细记录你所养过的所有蜜蜂的遗传信息方便查阅。
+extrabees.machine.databank.info=详细记录你所养过的所有蜜蜂的遗传信息方便查阅。
+extrabees.machine.indexer=索引式蜜蜂储存器
+extrabees.machine.indexer.desc=相当于一个超大容量的养蜂人箱子，可以以各种排序方式排序蜜蜂方便取用。
+extrabees.machine.indexer.info=相当于一个超大容量的养蜂人箱子，可以以各种排序方式排序蜜蜂方便取用。
+
+extrabees.machine.geneticmachine=基因工业机器框架
+extrabees.machine.genepool=核糖核酸水解池
+extrabees.machine.genepool.desc=在DNA水解酶和能量的作用下破坏有机体与其遗传信息提取其中的脱氧核糖核酸形成DNA液体作为基因工程的材料来源。
+extrabees.machine.genepool.info=在DNA水解酶和能量的作用下破坏有机体与其遗传信息提取其中的脱氧核糖核酸形成DNA液体作为基因工程的材料来源。
+extrabees.machine.sequencer=基因组分析器
+extrabees.machine.sequencer.desc=在萤石提供的微弱辐射环境下分析所提供活体的遗传信息并将制作为序列模板。
+extrabees.machine.sequencer.info=在萤石提供的微弱辐射环境下分析所提供活体的遗传信息并将制作为序列模板。
+extrabees.machine.splicer=基因同化器
+extrabees.machine.splicer.desc=按照基因模板上的遗传信息同化转变蜜蜂。
+extrabees.machine.splicer.info=按照基因模板上的遗传信息同化转变蜜蜂。
+
+extrabees.machine.advancedgeneticmachine=进阶基因工业机器框架
+extrabees.machine.isolator=基因片段分离器
+extrabees.machine.isolator.desc=从蜜蜂个体内随机分离基因片段。由于手段过于残酷，个体有死亡几率。
+extrabees.machine.isolator.info=从蜜蜂个体内随机分离基因片段。由于手段过于残酷，个体有死亡几率。
+extrabees.machine.replicator=血清复制器
+extrabees.machine.replicator.desc=将一份血清中的遗传信息复制到另一份中。
+extrabees.machine.replicator.info=将一份血清中的遗传信息复制到另一份中。
+extrabees.machine.purifier=血清提纯器
+extrabees.machine.inoculator=基因片段注射器
+extrabees.machine.inoculator.desc=将载有基因片段的血清注入蜜蜂体内。由于生物体遗传物质不确定性，注射有成功率。
+extrabees.machine.inoculator.info=将载有基因片段的血清注入蜜蜂体内。由于生物体遗传物质不确定性，注射有成功率。
+extrabees.machine.synthesizer=血清填充器
+extrabees.machine.synthesizer.desc=用核糖核酸残链填充血清使其准备好进行注射。
+extrabees.machine.synthesizer.info=用核糖核酸残链填充血清使其准备好进行注射。
+
+
+
+##################################################
+## 杂项
 
 extrabees.circuitlayout.stimulator=Stimulator
 extrabees.tab.genetics=Genetics
