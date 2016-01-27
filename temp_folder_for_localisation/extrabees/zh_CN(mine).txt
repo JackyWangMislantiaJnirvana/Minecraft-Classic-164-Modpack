@@ -217,44 +217,44 @@ extrabees.machine.synthesizer.info=用核糖核酸残链填充血清使其准备
 ## 杂项
 
 extrabees.circuitlayout.stimulator=Stimulator
-extrabees.tab.genetics=Genetics
+extrabees.tab.genetics=基因工程
 
-extrabees.genetics.quality.awful=Awful
-extrabees.genetics.quality.poor=Poor
-extrabees.genetics.quality.average=Average
-extrabees.genetics.quality.good=Good
-extrabees.genetics.quality.excellent=Excellent
+extrabees.genetics.quality.awful=极差
+extrabees.genetics.quality.poor=差
+extrabees.genetics.quality.average=一般
+extrabees.genetics.quality.good=好
+extrabees.genetics.quality.excellent=极好
 
-extrabees.genetics.quality.tooltip=%s Quality
+extrabees.genetics.quality.tooltip=血清品质 %s
 
-extrabees.genetics.allele.shortest=Shortest
-extrabees.genetics.allele.shorter=Shorter
-extrabees.genetics.allele.short=Short
-extrabees.genetics.allele.shortened=Shortened
-extrabees.genetics.allele.normal=Normal
-extrabees.genetics.allele.elongated=Elongated
-extrabees.genetics.allele.long=Long
-extrabees.genetics.allele.longer=Longer
-extrabees.genetics.allele.longest=Longest
+extrabees.genetics.allele.shortest=极短
+extrabees.genetics.allele.shorter=较短
+extrabees.genetics.allele.short=短
+extrabees.genetics.allele.shortened=略短
+extrabees.genetics.allele.normal=中等
+extrabees.genetics.allele.elongated=略长
+extrabees.genetics.allele.long=长
+extrabees.genetics.allele.longer=较长
+extrabees.genetics.allele.longest=极长
 
-extrabees.genetics.allele.slowest=Slowest
-extrabees.genetics.allele.slower=Slower
-extrabees.genetics.allele.slow=Slow
-extrabees.genetics.allele.norm=Normal
-extrabees.genetics.allele.fast=Fast
-extrabees.genetics.allele.faster=Faster
-extrabees.genetics.allele.fastest=Fastest
+extrabees.genetics.allele.slowest=极慢
+extrabees.genetics.allele.slower=较慢
+extrabees.genetics.allele.slow=慢
+extrabees.genetics.allele.norm=中等
+extrabees.genetics.allele.fast=快
+extrabees.genetics.allele.faster=较快
+extrabees.genetics.allele.fastest=极快
 
-extrabees.genetics.allele.low=Low
-extrabees.genetics.allele.high=High
-extrabees.genetics.allele.maximum=Maximum
+extrabees.genetics.allele.low=低
+extrabees.genetics.allele.high=高
+extrabees.genetics.allele.maximum=最大值
 
-extrabees.genetics.allele.average=Average
+extrabees.genetics.allele.average=平均值
 
-extrabees.genetics.allele.default=Default
-extrabees.genetics.allele.large=Large
-extrabees.genetics.allele.larger=Larger
-extrabees.genetics.allele.largest=Largest
+extrabees.genetics.allele.default=默认
+extrabees.genetics.allele.large=大
+extrabees.genetics.allele.larger=较大
+extrabees.genetics.allele.largest=极大
 
 extrabees.genetics.allele.none=None
 extrabees.genetics.allele.both1=Both 1
@@ -274,7 +274,7 @@ extrabees.genetics.allele.down4=Down 4
 extrabees.genetics.allele.down5=Down 5
 
 extrabees.genetics.allele.noeffect=Effect Cancellation
-extrabees.genetics.allele.noflower=Non-pollination
+extrabees.genetics.allele.noflower=缺少花粉来源
 
 extrabees.genetics.allele.lifespan=%s Lifespan
 extrabees.genetics.allele.production=%s Production
@@ -285,10 +285,10 @@ extrabees.genetics.allele.tolerance=%s %s Tol.
 extrabees.genetics.allele.species=%s Species
 extrabees.genetics.allele.effect=%s Effect
 extrabees.genetics.allele.flower=%s Pollination
-extrabees.genetics.allele.humidity=Humid.
-extrabees.genetics.allele.temperature=Temp.
-extrabees.genetics.allele.nocturnal=Nocturnal
-extrabees.genetics.allele.caveDwelling=Cave Dwelling
+extrabees.genetics.allele.humidity=相对湿度
+extrabees.genetics.allele.temperature=温度
+extrabees.genetics.allele.nocturnal=夜行
+extrabees.genetics.allele.caveDwelling=穴居
 extrabees.genetics.allele.tolerantFlyer=Rainfall
 
 extrabees.genetics.corrupted=Corrupted
