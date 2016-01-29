@@ -256,7 +256,7 @@ extrabees.genetics.allele.large=大
 extrabees.genetics.allele.larger=较大
 extrabees.genetics.allele.largest=极大
 
-extrabees.genetics.allele.none=None
+extrabees.genetics.allele.none=无
 extrabees.genetics.allele.both1=Both 1
 extrabees.genetics.allele.both2=Both 2
 extrabees.genetics.allele.both3=Both 3
@@ -273,29 +273,29 @@ extrabees.genetics.allele.down3=Down 3
 extrabees.genetics.allele.down4=Down 4
 extrabees.genetics.allele.down5=Down 5
 
-extrabees.genetics.allele.noeffect=Effect Cancellation
+extrabees.genetics.allele.noeffect=无效果
 extrabees.genetics.allele.noflower=缺少花粉来源
 
-extrabees.genetics.allele.lifespan=%s Lifespan
-extrabees.genetics.allele.production=%s Production
-extrabees.genetics.allele.fertility=%s Fertility
-extrabees.genetics.allele.flowering=%s Flowering
-extrabees.genetics.allele.territory=%s Territory
-extrabees.genetics.allele.tolerance=%s %s Tol.
-extrabees.genetics.allele.species=%s Species
-extrabees.genetics.allele.effect=%s Effect
-extrabees.genetics.allele.flower=%s Pollination
+extrabees.genetics.allele.lifespan=生命周期 %s
+extrabees.genetics.allele.production=生产力 %s
+extrabees.genetics.allele.fertility=繁殖能力 %s
+extrabees.genetics.allele.flowering=植物偏好 %s
+extrabees.genetics.allele.territory=作用范围 %s
+extrabees.genetics.allele.tolerance=适应性 %s %s
+extrabees.genetics.allele.species=品种 %s
+extrabees.genetics.allele.effect=特殊效果 %s
+extrabees.genetics.allele.flower=授粉能力 %s
 extrabees.genetics.allele.humidity=相对湿度
 extrabees.genetics.allele.temperature=温度
 extrabees.genetics.allele.nocturnal=夜行
-extrabees.genetics.allele.caveDwelling=穴居
-extrabees.genetics.allele.tolerantFlyer=Rainfall
+extrabees.genetics.allele.caveDwelling=穴居适应性
+extrabees.genetics.allele.tolerantFlyer=降雨适应性
 
 extrabees.genetics.corrupted=Corrupted
 
 
 
-extrabees.branch.barren.name=Barren
+extrabees.branch.barren.name=贫瘠
 extrabees.branch.barren.desc=Although initially these bees are considerably useless due to their meagre combs, they can lead onto greater things.
 extrabees.branch.hostile.name=Hostile
 extrabees.branch.hostile.desc=Prone to summoning monsters out of the blue, these bees nonetheless make useful if distasteful products.
