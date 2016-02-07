@@ -9,3 +9,5 @@ ForgeModLoader*
 *log*
 mods/VoxelMods/
 screenshots/
+settings.txt
+crash-reports/
