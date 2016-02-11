@@ -1,67 +1,67 @@
 ##################################################
 ## Machines
 
-extratrees.machine.kitchen.bar=Bar
-extratrees.machine.kitchen.bottleRack=Bottle Rack
+extratrees.machine.kitchen.bar=棒
+extratrees.machine.kitchen.bottleRack=瓶架
 
-extratrees.machine.machine.brewery=Brewery
-extratrees.machine.machine.distillery=Distillery
-extratrees.machine.machine.press=Fruit Press
-extratrees.machine.machine.lumbermill=Lumbermill
-extratrees.machine.machine.lumbermill.desc=The Lumbermill converts logs into planks at an increased rate, as well as giving byproducts such as sawdust and bark.
-extratrees.machine.machine.nursery=Nursery
-extratrees.machine.machine.woodworker=Woodworker
-extratrees.machine.machine.woodworker.desc=The Woodworker creates patterned wooden tiles from two different woods.
-extratrees.machine.machine.panelworker=Panelworker
-extratrees.machine.machine.panelworker.desc=The Panelworker creates patterned wooden panels from two different woods.
-
-        
+extratrees.machine.machine.brewery=发酵器
+extratrees.machine.machine.distillery=蒸馏器
+extratrees.machine.machine.press=果汁榨汁机
+extratrees.machine.machine.lumbermill=锯木机
+extratrees.machine.machine.lumbermill.desc=锯木机可以以更高的速度和产出将原木加工成木板，同时产生锯末、树皮之类的副产品。
+extratrees.machine.machine.nursery=苗圃
+extratrees.machine.machine.woodworker=木材加工机
+extratrees.machine.machine.woodworker.desc=木材加工机用两种不同的木材加工出具有纹路图案的复合木材方块。
+extratrees.machine.machine.panelworker=镶板加工机
+extratrees.machine.machine.panelworker.desc=镶板加工机用两种不同木材加工出具有纹路图案的复合镶板。
 
         
+
         
-extratrees.block.planks.fir=Fir
-extratrees.block.planks.cedar=Cedar
-extratrees.block.planks.hemlock=Hemlock
-extratrees.block.planks.cypress=Cypress
-extratrees.block.planks.fig=Fig
-extratrees.block.planks.beech=Beech
-extratrees.block.planks.alder=Alder
-extratrees.block.planks.hazel=Hazel
-extratrees.block.planks.hornbeam=Hornbeam
-extratrees.block.planks.box=Box
-extratrees.block.planks.butternut=Butternut
-extratrees.block.planks.hickory=Hickory
-extratrees.block.planks.whitebeam=Whitebeam
-extratrees.block.planks.elm=Elm
-extratrees.block.planks.apple=Apple
-extratrees.block.planks.yew=Yew
-extratrees.block.planks.pear=Pear
-extratrees.block.planks.hawthorn=Hawthorn
-extratrees.block.planks.rowan=Rowan
-extratrees.block.planks.elder=Elder
-extratrees.block.planks.maclura=Maclura
-extratrees.block.planks.syzgium=Syzgium
-extratrees.block.planks.brazilwood=Brazilwood
-extratrees.block.planks.logwood=Logwood
-extratrees.block.planks.iroko=Iroko
-extratrees.block.planks.locust=Locust
-extratrees.block.planks.eucalyptus=Eucalyptus
-extratrees.block.planks.purpleheart=Purpleheart
-extratrees.block.planks.ash=Ash
-extratrees.block.planks.holly=Holly
-extratrees.block.planks.olive=Olive
-extratrees.block.planks.sweetgum=Sweetgum
-extratrees.block.planks.rosewood=Rosewood
-extratrees.block.planks.gingko=Gingko
-extratrees.block.planks.pinkivory=Pink Ivory
+        
+extratrees.block.planks.fir=冷杉
+extratrees.block.planks.cedar=雪松
+extratrees.block.planks.hemlock=铁杉
+extratrees.block.planks.cypress=柏树
+extratrees.block.planks.fig=无花果树
+extratrees.block.planks.beech=山毛榉树
+extratrees.block.planks.alder=桤树
+extratrees.block.planks.hazel=榛树
+extratrees.block.planks.hornbeam=鹅耳枥
+extratrees.block.planks.box=黄杨
+extratrees.block.planks.butternut=灰胡桃树
+extratrees.block.planks.hickory=山胡桃树
+extratrees.block.planks.whitebeam=白面子树
+extratrees.block.planks.elm=榆树
+extratrees.block.planks.apple=苹果树
+extratrees.block.planks.yew=紫衫
+extratrees.block.planks.pear=梨树
+extratrees.block.planks.hawthorn=山楂树
+extratrees.block.planks.rowan=花楸树
+extratrees.block.planks.elder=接骨木
+extratrees.block.planks.maclura=桑橙
+extratrees.block.planks.syzgium=蒲桃
+extratrees.block.planks.brazilwood=巴西红木
+extratrees.block.planks.logwood=杨苏木树
+extratrees.block.planks.iroko=大绿柄桑木
+extratrees.block.planks.locust=豆角树
+extratrees.block.planks.eucalyptus=桉树
+extratrees.block.planks.purpleheart=紫芯檀香木
+extratrees.block.planks.ash=梣树
+extratrees.block.planks.holly=冬青树
+extratrees.block.planks.olive=橄榄树
+extratrees.block.planks.sweetgum=枫香树
+extratrees.block.planks.rosewood=蔷薇木
+extratrees.block.planks.gingko=银杏树
+extratrees.block.planks.pinkivory=象牙粉红木
 
-extratrees.block.planks.vanilla.oak=Oak
-extratrees.block.planks.vanilla.spruce=Spruce
-extratrees.block.planks.vanilla.birch=Birch
-extratrees.block.planks.vanilla.jungle=Jungle
+extratrees.block.planks.vanilla.oak=橡木
+extratrees.block.planks.vanilla.spruce=云杉木
+extratrees.block.planks.vanilla.birch=白桦木
+extratrees.block.planks.vanilla.jungle=丛林木
 
-extratrees.block.planks.forestry.larch=Larch
-extratrees.block.planks.forestry.teak=Teak
+extratrees.block.planks.forestry.larch=落叶松
+extratrees.block.planks.forestry.teak=柚木
 extratrees.block.planks.forestry.acacia=Acacia
 extratrees.block.planks.forestry.lime=Lime
 extratrees.block.planks.forestry.chestnut=Chestnut
