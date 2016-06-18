@@ -9,4 +9,9 @@ ForgeModLoader*
 *log*
 .Minecraft/
 mods/VoxelMods/
+screenshots/
+settings.txt
 crash-reports/
+*.exe
+*hmcl*
+options.txt
