@@ -11,3 +11,7 @@ mods/VoxelMods/
 screenshots/
 settings.txt
 crash-reports/
+*.exe
+*hmcl*
+options.txt
+.Minecraft/
