@@ -7,6 +7,11 @@ saves/
 .gitignore
 ForgeModLoader*
 *log*
+.Minecraft/
 mods/VoxelMods/
 screenshots/
-.Minecraft/
+settings.txt
+crash-reports/
+*.exe
+*hmcl*
+options.txt
