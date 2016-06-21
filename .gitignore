@@ -16,6 +16,8 @@ crash-reports/
 *hmcl*
 options.txt
 OpenComputersMod-1.3.6.561-native.64.dll
+assets/
+libraries/
 natives/
 resourcepacks/
-Minecraft.exe
+options.txt
