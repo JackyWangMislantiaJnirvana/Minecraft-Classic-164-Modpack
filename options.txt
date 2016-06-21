@@ -56,7 +56,7 @@ key_key.command:53
 key_key.minimap.voxelmapmenu:50
 key_IC2 ALT Key:56
 key_IC2 Boost Key:29
-key_IC2 Mode Switch Key:50
+key_IC2 Mode Switch Key:47
 key_IC2 Side Inventory Key:46
 key_IC2 Hub Expand Key:45
 key_BCTools Armor Activation:33
